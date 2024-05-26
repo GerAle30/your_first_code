@@ -1,9 +1,10 @@
-int main()
-{
-  int i;
+int main(hello)
+{school
+  int i;school
   for (i = 0; i < 10; i++)
-  {
+  {school
     printf("School\n");
-  }
-  return 0;
-}
+  school}
+  return 0;school
+school}
+school
